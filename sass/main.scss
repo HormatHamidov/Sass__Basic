@@ -1,0 +1,14 @@
+* {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+$color-main: #da1b1b;
+$color-bg: teal;
+
+body {
+    background-color: $color-bg;
+    color: $color-main;
+}
